@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/hokminglee0803/ocrDemo/static/js/app.3691328d.chunk.js",
-    "app.js.map": "/hokminglee0803/ocrDemo/static/js/app.3691328d.chunk.js.map",
-    "runtime~app.js": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js",
-    "runtime~app.js.map": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js.map",
-    "static/js/2.8260b7a1.chunk.js": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js",
-    "static/js/2.8260b7a1.chunk.js.map": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js.map",
-    "favicon-16.png": "/hokminglee0803/ocrDemo/favicon-16.png",
-    "favicon-32.png": "/hokminglee0803/ocrDemo/favicon-32.png",
-    "favicon.ico": "/hokminglee0803/ocrDemo/favicon.ico",
-    "index.html": "/hokminglee0803/ocrDemo/index.html",
-    "manifest.json": "/hokminglee0803/ocrDemo/manifest.json",
-    "serve.json": "/hokminglee0803/ocrDemo/serve.json",
-    "static/js/2.8260b7a1.chunk.js.LICENSE.txt": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js.LICENSE.txt"
+    "app.js": "/ocrDemo/static/js/app.3691328d.chunk.js",
+    "app.js.map": "/ocrDemo/static/js/app.3691328d.chunk.js.map",
+    "runtime~app.js": "/ocrDemo/static/js/runtime~app.0df49839.js",
+    "runtime~app.js.map": "/ocrDemo/static/js/runtime~app.0df49839.js.map",
+    "static/js/2.8260b7a1.chunk.js": "/ocrDemo/static/js/2.8260b7a1.chunk.js",
+    "static/js/2.8260b7a1.chunk.js.map": "/ocrDemo/static/js/2.8260b7a1.chunk.js.map",
+    "favicon-16.png": "/ocrDemo/favicon-16.png",
+    "favicon-32.png": "/ocrDemo/favicon-32.png",
+    "favicon.ico": "/ocrDemo/favicon.ico",
+    "index.html": "/ocrDemo/index.html",
+    "manifest.json": "/ocrDemo/manifest.json",
+    "serve.json": "/ocrDemo/serve.json",
+    "static/js/2.8260b7a1.chunk.js.LICENSE.txt": "/ocrDemo/static/js/2.8260b7a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.0df49839.js",
