@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hokminglee0803/ocrProject/precache-manifest.656bfc754ac3ad7bda82e2c5e1e19575.js"
+  "/hokminglee0803/ocrDemo/precache-manifest.6456f4646b16163c551337647a8d1bb6.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("\\hokminglee0803\\ocrProject\\index.html", {
+workbox.routing.registerNavigationRoute("\\hokminglee0803\\ocrDemo\\index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/hokminglee0803/ocrProject/static/js/app.fdbb4ef7.chunk.js",
-    "app.js.map": "/hokminglee0803/ocrProject/static/js/app.fdbb4ef7.chunk.js.map",
-    "runtime~app.js": "/hokminglee0803/ocrProject/static/js/runtime~app.1016c1be.js",
-    "runtime~app.js.map": "/hokminglee0803/ocrProject/static/js/runtime~app.1016c1be.js.map",
-    "static/js/2.8260b7a1.chunk.js": "/hokminglee0803/ocrProject/static/js/2.8260b7a1.chunk.js",
-    "static/js/2.8260b7a1.chunk.js.map": "/hokminglee0803/ocrProject/static/js/2.8260b7a1.chunk.js.map",
-    "favicon-16.png": "/hokminglee0803/ocrProject/favicon-16.png",
-    "favicon-32.png": "/hokminglee0803/ocrProject/favicon-32.png",
-    "favicon.ico": "/hokminglee0803/ocrProject/favicon.ico",
-    "index.html": "/hokminglee0803/ocrProject/index.html",
-    "manifest.json": "/hokminglee0803/ocrProject/manifest.json",
-    "serve.json": "/hokminglee0803/ocrProject/serve.json",
-    "static/js/2.8260b7a1.chunk.js.LICENSE.txt": "/hokminglee0803/ocrProject/static/js/2.8260b7a1.chunk.js.LICENSE.txt"
+    "app.js": "/hokminglee0803/ocrDemo/static/js/app.3691328d.chunk.js",
+    "app.js.map": "/hokminglee0803/ocrDemo/static/js/app.3691328d.chunk.js.map",
+    "runtime~app.js": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js",
+    "runtime~app.js.map": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js.map",
+    "static/js/2.8260b7a1.chunk.js": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js",
+    "static/js/2.8260b7a1.chunk.js.map": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js.map",
+    "favicon-16.png": "/hokminglee0803/ocrDemo/favicon-16.png",
+    "favicon-32.png": "/hokminglee0803/ocrDemo/favicon-32.png",
+    "favicon.ico": "/hokminglee0803/ocrDemo/favicon.ico",
+    "index.html": "/hokminglee0803/ocrDemo/index.html",
+    "manifest.json": "/hokminglee0803/ocrDemo/manifest.json",
+    "serve.json": "/hokminglee0803/ocrDemo/serve.json",
+    "static/js/2.8260b7a1.chunk.js.LICENSE.txt": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.1016c1be.js",
+    "static/js/runtime~app.0df49839.js",
     "static/js/2.8260b7a1.chunk.js",
-    "static/js/app.fdbb4ef7.chunk.js"
+    "static/js/app.3691328d.chunk.js"
   ]
 }
