@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "78584bb5d7bde731d51c",
-    "url": "/hokminglee0803/ocrDemo/static/js/app.52fa5bc2.chunk.js"
+    "revision": "bb137bedf7cd289a2391",
+    "url": "/hokminglee0803/ocrDemo/static/js/app.26b4f333.chunk.js"
   },
   {
     "revision": "6824409e352c40b4ace7",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/hokminglee0803/ocrDemo/expo-service-worker.js"
   },
   {
-    "revision": "bcde421d242755b9a01768e8c8534894",
+    "revision": "669b09039b6890e0ec536ca8fd55691c",
     "url": "/hokminglee0803/ocrDemo/index.html"
   },
   {

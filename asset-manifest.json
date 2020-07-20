@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/hokminglee0803/ocrDemo/static/js/app.52fa5bc2.chunk.js",
-    "app.js.map": "/hokminglee0803/ocrDemo/static/js/app.52fa5bc2.chunk.js.map",
+    "app.js": "/hokminglee0803/ocrDemo/static/js/app.26b4f333.chunk.js",
+    "app.js.map": "/hokminglee0803/ocrDemo/static/js/app.26b4f333.chunk.js.map",
     "runtime~app.js": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js",
     "runtime~app.js.map": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js.map",
     "static/js/2.4f81486b.chunk.js": "/hokminglee0803/ocrDemo/static/js/2.4f81486b.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.0df49839.js",
     "static/js/2.4f81486b.chunk.js",
-    "static/js/app.52fa5bc2.chunk.js"
+    "static/js/app.26b4f333.chunk.js"
   ]
 }
