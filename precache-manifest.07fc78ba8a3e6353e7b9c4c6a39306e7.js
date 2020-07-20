@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "fa235f0bd21f248829ad",
-    "url": "/hokminglee0803/ocrDemo/static/js/app.3691328d.chunk.js"
+    "revision": "78584bb5d7bde731d51c",
+    "url": "/hokminglee0803/ocrDemo/static/js/app.52fa5bc2.chunk.js"
   },
   {
     "revision": "6824409e352c40b4ace7",
     "url": "/hokminglee0803/ocrDemo/static/js/runtime~app.0df49839.js"
   },
   {
-    "revision": "9e4ffd7e7ecc6769ae73",
-    "url": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js"
+    "revision": "47b5f9a47a277613daf8",
+    "url": "/hokminglee0803/ocrDemo/static/js/2.4f81486b.chunk.js"
   },
   {
     "revision": "f3f68bf5b7dce8acae55c25f724625dd",
     "url": "/hokminglee0803/ocrDemo/expo-service-worker.js"
   },
   {
-    "revision": "3a4814d30068a96f99792dccbc4c2294",
+    "revision": "bcde421d242755b9a01768e8c8534894",
     "url": "/hokminglee0803/ocrDemo/index.html"
   },
   {
@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "a990a8c98c379b1c14de33443329d80a",
-    "url": "/hokminglee0803/ocrDemo/static/js/2.8260b7a1.chunk.js.LICENSE.txt"
+    "url": "/hokminglee0803/ocrDemo/static/js/2.4f81486b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "71033553ddc0843407efe54c23890fe2",
