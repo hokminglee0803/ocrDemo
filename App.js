@@ -46,7 +46,7 @@ class App extends React.Component{
       
         this.setState({loading: true});
         const img = document.getElementById('id')
-
+        
       fetch(img.src)
       .then(res => res.blob())
       .then(blob => {
@@ -72,7 +72,7 @@ class App extends React.Component{
           })
           .catch(err => {
             this.setState({
-              result: err,
+              result: "Unexpected Error, please try with other photo",
               loading: false
             })
           })
